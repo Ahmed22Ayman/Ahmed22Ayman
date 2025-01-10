@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ahmed22Ayman/Ahmed22Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed Ayman from Egypt, and I'm a Software Engineering student at Misr International University who is motivated a Software Engineer with a strong foundation in programming and a passion for learning. Eager to apply problem-solving skills and technical knowledge to contribute to innovative projects while growing within a dynamic and collaborative team environment.
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
+- Email: [ahmed.ayman.mahmoud1234@gmail.com](mailto:ahmed.ayman.mahmoud1234@gmail.com)
+- LinkedIn: [Ahmed Ayman](www.linkedin.com/in/ahmed-ayman-b18889246)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills
+- *Languages*: Java, C++, Python, PHP, JavaScript, HTML, CSS, C#, Dart
+- *Frameworks*: React, Spring Boot, Express, Django, Flutter
+- *Databases*: MYSQL, FireBase
+- *Tools*: Git, VScode
+
+### 💬 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
